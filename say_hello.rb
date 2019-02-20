@@ -3,3 +3,6 @@ def say_hello(name = "Ruby Programmer")
 end
 
 
+def greeting(name)
+  puts "hello, #{name}."
+end
